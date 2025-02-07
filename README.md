@@ -6,11 +6,8 @@
 
 - Download repository
 - Extract repository
-- Run composer install
-
-# Deploy App
 - Open terminal
-- Open directory location extracted repository
+- Run composer install
 - Run php artisan serv
 
 # Run in Postman
